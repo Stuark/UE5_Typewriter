@@ -1,0 +1,3 @@
+Derivate class from RichTextBlock
+Shows key by key the text.
+It mantains the full size of the text to avoid moving the rest of the UI and mantain the properties of the RichText as changing colors, sizes, images...
